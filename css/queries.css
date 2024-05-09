@@ -1,0 +1,18 @@
+@media (max-width:900px){
+    .menu{
+        flex-direction: column;
+    }
+    .contenedor-hijo{
+        flex-direction: column;
+        gap: 2rem;
+        padding: 1rem;
+    }
+    .texto{
+        width: auto;
+        background-color: beige;
+    }
+    #titulo{
+        font-size: 30px;
+    }
+
+}
